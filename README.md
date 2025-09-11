@@ -4,7 +4,7 @@
 ## Executive Summary
 [Full Business Summary (PDF)](amazon_product_business_summary.pdf)
 
-This project applies Exploratory Data Analysis (EDA) to an Amazon Fashion Products dataset consisting of 13,000 rows.  
+This project applies Exploratory Data Analysis (EDA) to an Amazon Fashion Products dataset.
 
 The goal for this project is to uncover key trends in brands, pricing, categories, and ratings to help Amazon fashion sellers and buyers make data-driven decisions.
 
