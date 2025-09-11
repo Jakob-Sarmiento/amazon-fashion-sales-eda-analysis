@@ -5,13 +5,14 @@
 [View the full Business Summary (PDF)](reports/Amazon_Fashion_Analysis_Summary.pdf)
 
 This project applies Exploratory Data Analysis (EDA) to an Amazon Fashion Products dataset (~13,000 products, cleaned to 1,787 usable rows).  
-The goal of this project is to uncover key trends in brands, pricing, categories, and ratings to help Amazon fashion sellers and buyers make data-driven decisions.
+
+The goal for this project is to uncover key trends in brands, pricing, categories, and ratings to help Amazon fashion sellers and buyers make data-driven decisions.
 
 ---
 
 ## 🔑 Key Findings (Brief Preview)
-- **Ratings per Brand** – Six of the ten highest-rated brands are bag companies, confirming that bags consistently earn stronger customer reviews than other fashion products.  
-- **Most-Loved Fashion** – This category holds the highest average rating (~4.42 stars).  
+- **Ratings per Brand** – 
+- **Most-Loved Fashion** – This category holds the highest average rating
 - **Price Distribution** – 75 % of products are priced below \$188; one \$26k item is a clear outlier.  
 - **Price vs. Rating** – Correlation ≈ 0.03, indicating no meaningful relationship between price and rating.
 
