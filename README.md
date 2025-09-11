@@ -53,5 +53,36 @@ Key charts supporting the findings are stored in the [`/images`](images) folder 
 - **Cross-Platform Analysis** – Perform EDA on other e-commerce platforms (e.g., Walmart, eBay) to compare category performance, brand performance, and pricing strategies.
 
 ---
+# Amazon Fashion Product & Sales Analysis
+
+**Author:** Jakob Sarmiento  
+**Date:** September 10, 2025
+
+---
+
+## 📄 Executive Summary (PDF)
+[➡️ View/Download the full Executive Summary](reports/Amazon_Fashion_Analysis_Summary.pdf)
+
+This PDF contains the complete business summary, key findings, business strategies, and next steps.
+
+---
+
+## 📝 Quick Project Overview
+This project applies Exploratory Data Analysis (EDA) to an Amazon Fashion dataset (~13,000 original rows, cleaned to 1,787 usable rows).  
+The goal is to uncover key trends in product brands, pricing, categories, and ratings to guide fashion sellers and buyers on Amazon.
+
+---
+
+## 🔑 Key Findings (Brief Preview)
+- Six of the ten highest-rated brands are bag companies, confirming strong customer preference for bags and luggage.  
+- *Most-Loved Fashion* is the highest-rated category (~4.42 stars).  
+- 75 % of products are priced below \$188; one \$26k item is a clear outlier.  
+- Correlation between price and rating is negligible (~0.03).
+
+*(Full details and visuals are in the [Executive Summary PDF](reports/Amazon_Fashion_Analysis_Summary.pdf) and the notebook.)*
+
+---
+
+## 🚀 Repository Structure
 
 ## Repository Structure
