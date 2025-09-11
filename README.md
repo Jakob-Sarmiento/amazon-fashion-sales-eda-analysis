@@ -15,7 +15,7 @@ The goal of this project is to uncover key trends in brands, pricing, categories
 - **Price Distribution** – 75 % of products are priced below \$188; one \$26k item is a clear outlier.  
 - **Price vs. Rating** – Correlation ≈ 0.03, indicating no meaningful relationship between price and rating.
 
-> Full details, visuals, and additional insights are in the  
+> Full details are in the  
 > [Executive Summary PDF](reports/Amazon_Fashion_Analysis_Summary.pdf).
 
 ---
