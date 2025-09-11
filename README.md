@@ -10,7 +10,7 @@ The goal for this project is to uncover key trends in brands, pricing, categorie
 
 ---
 
-## 🔑 Key Findings (Brief Preview)
+## Key Findings (Preview)
 - **Ratings per Brand** – 
 - **Most-Loved Fashion** – This category holds the highest average rating
 - **Price Distribution** – 75 % of products are priced below \$188; one \$26k item is a clear outlier.  
