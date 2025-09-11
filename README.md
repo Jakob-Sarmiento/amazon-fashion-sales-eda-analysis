@@ -1,8 +1,8 @@
 # Amazon-Fashion-Sales - EDA-Analysis
 ---
 
-## Executive Summary
-[View the full Business Summary (PDF)](reports/Amazon_Fashion_Analysis_Summary.pdf)
+## Executive fSummary
+[Full Business Summary (PDF)](reports/Amazon_Fashion_Analysis_Summary.pdf)
 
 This project applies Exploratory Data Analysis (EDA) to an Amazon Fashion Products dataset (~13,000 products, cleaned to 1,787 usable rows).  
 
