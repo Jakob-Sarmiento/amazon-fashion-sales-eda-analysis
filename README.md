@@ -1,4 +1,4 @@
-# Amazon-Fashion-Sales - EDA-Analysis
+# Amazon Fashion Sales - EDA-Analysis
 ---
 
 ## Executive Summary
