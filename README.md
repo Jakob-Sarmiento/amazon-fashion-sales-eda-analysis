@@ -18,7 +18,11 @@ The goal for this project is to uncover key trends in brands, pricing, categorie
 > Full details are in the  
 > [Executive Summary PDF](reports/Amazon_Fashion_Analysis_Summary.pdf).
 
----.
+---
+## Business Strategies and Recommendations
+
+- **Pricing** - Sellers on Amazon should prioritize 
+
 ---
 
 ## 🖼️ Visual Highlights
