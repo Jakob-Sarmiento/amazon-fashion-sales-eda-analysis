@@ -40,11 +40,11 @@ The goal for this project is to uncover key trends in brands, pricing, categorie
 ## Data & Methods
 - **Dataset** – Cleaned around 1,800 rows
 - **Tools** – Python, Pandas, NumPy, Matplotlib, Seaborn.  
-- **Notebook** – See [`notebooks/amazon_fashion_eda.ipynb`](03_amazon_fashion_eda.ipynb) for full EDA workflow.
+- **Notebook** – See [`03_amazon_fashion_sales_eda_analysis.ipynb`](03_amazon_fashion_eda.ipynb) for full EDA workflow.
 
 ---
 
-## 🔜 Next Steps
-- **Quantify key metrics** – Extract KPIs such as category growth rates, review volumes, and price–rating relationships to measure the trends discovered in the initial EDA.  
-- **Cross-platform comparison** – Perform EDA on other e-commerce platforms (e.g., Walmart, eBay) to benchmark category and brand performance as well as pricing strategies.
+## Next Steps
+- **Quantify key metrics** – Extract KPIs including category growth rates, review volumes, and price–rating relationships to measure the trends discovered in the initial EDA.  
+- **Cross-platform comparison** – Perform EDA on other e-commerce platforms to compare category and product performance.
 
