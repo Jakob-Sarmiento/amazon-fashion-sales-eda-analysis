@@ -11,7 +11,6 @@ The goal for this project is to uncover key trends in brands, pricing, categorie
 ---
 
 ## Preview of Key Findings 
-- **Ratings per Brand** – Many of the highest rated brands are bag brands
 - **Categories** – The Most-Loved Fashion category holds the highest average rating and one of the largest numbers of product listings in the dataset.
 - **Price Distribution** – The majority of Amazon fashion products fall in the lower- to mid-price range and are not considered high-end.
 - **Price vs. Rating** – Correlation ≈ 0.03, there is no relationship between price and rating.
@@ -19,14 +18,7 @@ The goal for this project is to uncover key trends in brands, pricing, categorie
 > Full details are in the  
 > [Executive Summary PDF](reports/Amazon_Fashion_Analysis_Summary.pdf).
 
----
-
-## 💡 Business Strategies (Highlights)
-- Prioritize **bag-related products** as a primary Amazon sales channel.  
-- Focus on the **Most-Loved Fashion** category to capture strong consumer demand.  
-- Maintain **competitive, mid-range pricing** since higher prices do not drive higher ratings.  
-- Protect and **maintain high customer ratings**, as the marketplace is already saturated with well-rated competitors.
-
+---.
 ---
 
 ## 🖼️ Visual Highlights
