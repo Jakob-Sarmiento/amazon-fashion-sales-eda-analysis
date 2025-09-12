@@ -26,9 +26,7 @@ The goal for this project is to uncover key trends in brands, pricing, categorie
 
 ---
 
-## 🖼️ Visual Highlights
-Key charts supporting these findings are stored in the [`/images`](images) folder and shown below:
-
+## Visual Highlights
 | Chart | Description |
 |-------|------------|
 | ![Top Categories by Average Rating](images/top_categories_by_rating.png) | Ten highest-rated product categories |
