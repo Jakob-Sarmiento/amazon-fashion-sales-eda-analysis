@@ -34,9 +34,8 @@ The goal for this project is to uncover key trends in brands, pricing, categorie
 | ![Ratings per Category Boxplot](images/rating_distribution_per_cat.png) | Most categories are rated between 4.0 and 5.0 stars |
 
 
-## 🧮 Data & Methods
-- **Dataset** – Cleaned to 1,787 rows and 4 key variables: `brand`, `price`, `category`, and `rating`.  
-- **Cleaning Steps** – Standardized column names, converted numeric fields, and removed missing or invalid values.  
+## Data & Methods
+- **Dataset** – Cleaned around 1,800 rows
 - **Tools** – Python, Pandas, NumPy, Matplotlib, Seaborn.  
 - **Notebook** – See [`notebooks/amazon_fashion_eda.ipynb`](notebooks/amazon_fashion_eda.ipynb) for full EDA workflow.
 
