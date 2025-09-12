@@ -45,6 +45,6 @@ The goal for this project is to uncover key trends in brands, pricing, categorie
 ---
 
 ## Next Steps
-- **Quantify key metrics** – Extract KPIs including category growth rates, review volumes, and price–rating relationships to measure the trends discovered in the initial EDA.  
-- **Cross-platform comparison** – Perform EDA on other e-commerce platforms to compare category and product performance.
+- **Track exact numbers** – Extract KPIs including category growth rates, review volumes, and price–rating relationships to measure the trends discovered in the initial EDA.  
+- **E-commerce platform comparison** – Perform EDA on other e-commerce platforms to compare category and product performance.
 
