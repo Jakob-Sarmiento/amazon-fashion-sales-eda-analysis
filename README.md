@@ -33,9 +33,6 @@ The goal for this project is to uncover key trends in brands, pricing, categorie
 | ![Top Brands by Average Rating](images/top_brands_by_rating.png) | Leading brands by average rating |
 | ![Price Distribution](images/price_distribution_boxplot.png) | Market dominated by mid-range pricing |
 | ![Price vs Rating Correlation](images/price_rating_correlation.png) | Minimal relationship between price and ratings |
-
-*(More plots are available inside the notebook.)*
-
 ---
 
 ## 🧮 Data & Methods
