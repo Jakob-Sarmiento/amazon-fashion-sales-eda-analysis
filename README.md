@@ -19,9 +19,10 @@ The goal for this project is to uncover key trends in brands, pricing, categorie
 > [Executive Summary PDF](reports/Amazon_Fashion_Analysis_Summary.pdf).
 
 ---
-## Business Strategies and Recommendations
+## Business Strategies and Recommendations (Preview)
 
-- **Pricing** - Sellers on Amazon should prioritize 
+- **Pricing** - Sellers on Amazon should prioritize low to mid end prices, considering most fashion products are not high-end on Amazon, in terms of pricing.
+- **Prioritization** - Companies selling bags should use Amazon as one of their main channels, as bags are highly and consistently rated on Amazon.
 
 ---
 
