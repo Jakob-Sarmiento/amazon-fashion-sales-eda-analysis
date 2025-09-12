@@ -27,12 +27,11 @@ The goal for this project is to uncover key trends in brands, pricing, categorie
 ---
 
 ## Visual Highlights
-| Chart | Description |
+| Type of Visualization | Description |
 |-------|------------|
-| ![Top Categories by Average Rating](images/top_categories_by_rating.png) | Ten highest-rated product categories |
-| ![Top Brands by Average Rating](images/top_brands_by_rating.png) | Leading brands by average rating |
-| ![Price Distribution](images/price_distribution_boxplot.png) | Market dominated by mid-range pricing |
-| ![Price vs Rating Correlation](images/price_rating_correlation.png) | Minimal relationship between price and ratings |
+| ![Correlation Heatmap](correlation_heatmap_price_rating.png) |Minimal relationship between price and ratings|
+| ![Price Distribution Histogram](price_distribution.png) | Market dominated by low to mid end pricing |
+| ![Ratings per Category Boxplot](rating_distribution_per_cat.png) | Most categories are rated between the 4.0 to 5.0 range |
 ---
 
 ## 🧮 Data & Methods
