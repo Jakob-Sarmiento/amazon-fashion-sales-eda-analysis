@@ -28,10 +28,11 @@ The goal for this project is to uncover key trends in brands, pricing, categorie
 
 ## Visual Highlights
 | Type of Visualization | Description |
-|-------|--------|
+|-----------------------|------------|
 | ![Correlation Heatmap](correlation_heatmap_price_rating.png) | Minimal relationship between price and ratings |
 | ![Price Distribution Histogram](price_distribution.png) | Market dominated by low- to mid-range pricing |
 | ![Ratings per Category Boxplot](rating_distribution_per_cat.png) | Most categories are rated between 4.0 and 5.0 stars |
+
 
 
 ## Data & Methods
