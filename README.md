@@ -31,7 +31,7 @@ The goal for this project is to uncover key trends in brands, pricing, categorie
 | Type of Visualization | Description |
 |-----------------------|-------------|
 | [Correlation Heatmap](images/correlation_heatmap_price_rating.png) | Minimal relationship between price and ratings |
-| [Price Distribution Histogram](images/price_distribution.png) | Market dominated by low- to mid-range pricing |
+| [Price Distribution Histogram](images/price_distribution.png) | Market dominated by low to mid-range pricing |
 | [Ratings per Category Boxplot](images/rating_distribution_per_cat.png) | Most categories are rated between 4.0 and 5.0 stars |
 
 
@@ -40,7 +40,7 @@ The goal for this project is to uncover key trends in brands, pricing, categorie
 ## Data & Methods
 - **Dataset** – Cleaned around 1,800 rows
 - **Tools** – Python, Pandas, NumPy, Matplotlib, Seaborn.  
-- **Notebook** – See [`notebooks/amazon_fashion_eda.ipynb`](notebooks/amazon_fashion_eda.ipynb) for full EDA workflow.
+- **Notebook** – See [`notebooks/amazon_fashion_eda.ipynb`](03_amazon_fashion_eda.ipynb) for full EDA workflow.
 
 ---
 
