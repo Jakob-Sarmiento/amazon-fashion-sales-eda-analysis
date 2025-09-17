@@ -14,10 +14,6 @@ The goal for this project is to uncover key trends in brands, pricing, categorie
 - **Categories** – The Most-Loved Fashion category holds the highest average rating and one of the largest numbers of product listings in the dataset.
 - **Price Distribution** – The majority of Amazon fashion products fall in the lower- to mid-price range and are not considered high-end.
 - **Price vs. Rating** – Correlation ≈ 0.03, there is no relationship between price and rating.
-
-> 
-> [Executive Summary PDF](reports/Amazon_Fashion_Analysis_Summary.pdf).
-
 ---
 ## Business Strategies and Recommendations (Preview)
 
