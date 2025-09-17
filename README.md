@@ -15,7 +15,7 @@ The goal for this project is to uncover key trends in brands, pricing, categorie
 - **Price Distribution** – The majority of Amazon fashion products fall in the lower- to mid-price range and are not considered high-end.
 - **Price vs. Rating** – Correlation ≈ 0.03, there is no relationship between price and rating.
 --- 
-- [📄 Full project report (PDF)]([docs/Amazon_Fashion_Model_Report.pdf)](https://docs.google.com/document/d/1aAeRWxviAThdUz9Ko7ORaX9TiR3n9DybboqM-VBc42M/edit?usp=sharing)
+- [📄 Full project report (PDF)]([docs/Amazon_Fashion_Model_Report.pdf](https://docs.google.com/document/d/1aAeRWxviAThdUz9Ko7ORaX9TiR3n9DybboqM-VBc42M/edit?usp=sharing)])
 ## Business Strategies and Recommendations (Preview)
 
 - **Pricing** - Sellers on Amazon should prioritize low to mid end prices, considering most fashion products are not high-end on Amazon, in terms of pricing.
